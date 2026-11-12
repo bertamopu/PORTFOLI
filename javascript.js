@@ -20,7 +20,7 @@ for (let i = 0; i < visuals.length; i++) {
 const cursor = Cursorly.init();
 
 // Add your own image as a new cursor icon
-const cursorIndex = cursor.addIcon("images/estrella-gran.svg", 64, 64); // Specify the image path and size
+const cursorIndex = cursor.addIcon("images/estrella-gran-1.svg", 64, 64); // Specify the image path and size
 
 // Activate your custom icon
 cursor.setIcon(cursorIndex);
